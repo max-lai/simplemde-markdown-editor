@@ -1502,6 +1502,8 @@ SimpleMDE.prototype.render = function(el) {
 		});
 	}
 
+	//todo add past or drop image handle
+
 	this.gui = {};
 
 	if(options.toolbar !== false) {
